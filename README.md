@@ -1,5 +1,7 @@
 # Project InfinitiSphere
-## A Free Golf Balls QR Code Generator
+**A Free Golf Balls QR Code Generator**
+
+<img src="https://github.com/m-a-x-s-e-e-l-i-g/project-infinitisphere/assets/7907436/09291a1d-29ab-4878-b447-ee136bc235ba" alt="Project-InfinitiSphere-logo" height=340/>
 
 1. **Objective**: Develop a covert QR code generator that the driving range system accepts, ___unlocking free golf balls for life___!
 2. **Codename**: InfinitiSphere.
@@ -13,13 +15,13 @@
 6. **Infiltration and Deployment**:
     - **Step 1**: Infiltrate the driving range premises.
     - **Step 2**: Analyze existing QR codes.
-    - **Step 3**: Decipher the QR code algorithm, but don't crack it.
+    - **Step 3**: Decipher the QR code algorithm.
     - **Step 4**: Construct a specialized QR code generator compatible with the system.
 7. **Execution**:
     - **Timing**: Blend in with the golfers. Maintain a low profile. Avoid suspicion at all costs.
     - **Location**: Concealed in the bushes near the driving range.
     - **Action**: Generate a QR code that the driving range system recognizes, granting access to free golf balls.
-    - **Note**: Don't take out my laptop, hold a golf club. Stay in character.
+    - **Note**: Hide laptop, hold a golf club in stead. Stay in character.
 9. **Exfiltration**:
     - **Timing**: When your hands are bleeding from hitting too many golf balls.
     - **Location**: Exit through the main gate, blending in with the crowd.
