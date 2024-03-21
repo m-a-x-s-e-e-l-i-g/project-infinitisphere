@@ -29,6 +29,10 @@
     - **Timing**: When your hands are bleeding from hitting too many golf balls.
     - **Location**: Exit through the main gate, blending in with the crowd.
 
+<a href="https://secret-stuff.netlify.app">
+<img src="https://github.com/m-a-x-s-e-e-l-i-g/project-infinitisphere/assets/7907436/991cfe71-1791-4c8e-96a3-33245dd80a91"/>
+</a>
+
 ## Quick Start
 Clone or download [this repo](https://github.com/m-a-x-s-e-e-l-i-g/project-infinitisphere), then install the dependencies and run the dev server:
 
