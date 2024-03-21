@@ -2,12 +2,14 @@
 # Project InfinitiSphere
 **A Free Golf Balls QR Code Generator**
 
-<img src="https://github.com/m-a-x-s-e-e-l-i-g/project-infinitisphere/assets/7907436/09291a1d-29ab-4878-b447-ee136bc235ba" alt="Project-InfinitiSphere-logo" height=340/>
+<img src="https://github.com/m-a-x-s-e-e-l-i-g/project-infinitisphere/assets/7907436/09291a1d-29ab-4878-b447-ee136bc235ba" alt="Project-InfinitiSphere-logo" height=340/>  
+
+<a href="https://secret-stuff.netlify.app">Hosted here. Check it out!</a>
 
 1. **Objective**: Develop a covert QR code generator that the driving range system accepts, ___unlocking free golf balls for life___!
 2. **Codename**: InfinitiSphere.
 3. **Operation Name**: Operation Tee Time.
-3. **Agent**: Max Seelig.
+4. **Agent**: Max Seelig.
 5. **Equipment**:
     - **Laptop with VSCode and CoPilot**: Essential for covert programming.
     - **Burner Phone**: For flooding the system with generated QR codes.
@@ -23,7 +25,7 @@
     - **Location**: Concealed in the bushes near the driving range.
     - **Action**: Generate a QR code that the driving range system recognizes, granting access to free golf balls.
     - **Note**: Hide laptop, hold a golf club in stead. Stay in character.
-9. **Exfiltration**:
+8. **Exfiltration**:
     - **Timing**: When your hands are bleeding from hitting too many golf balls.
     - **Location**: Exit through the main gate, blending in with the crowd.
 
