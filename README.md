@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ecc208d-8c80-450b-8dba-f6b8c51833d4/deploy-status)](https://app.netlify.com/sites/secret-stuff/deploys)
 # Project InfinitiSphere
 **A Free Golf Balls QR Code Generator**
 
