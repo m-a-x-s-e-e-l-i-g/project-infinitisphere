@@ -1,4 +1,4 @@
-import { writable } from 'svelte/store';
+import { persisted } from 'svelte-persisted-store'
 
-export let ticketId = writable(381146);
-export let credits = writable(1);
+export const ticketId = persisted('ticketId', 381147);
+export const credits = persisted('credits', 1);
