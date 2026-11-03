@@ -31,10 +31,14 @@
 		"svelte-check": "^4.7.1",
 		"tailwindcss": "^4.3.3",
 		"tslib": "^2.4.1",
-		"typescript": "^5.0.0",
+		"typescript": "^6.0.3",
 		"vite": "^8.3.5"
 	},
 	"type": "module",
+	"imports": {
+		"#lib": "./src/lib/index.ts",
+		"#lib/*": "./src/lib/*"
+	},
 	"dependencies": {
 		"bits-ui": "^0.22.0",
 		"clsx": "^2.1.0",

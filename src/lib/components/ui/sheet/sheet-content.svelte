@@ -8,7 +8,7 @@
 		type Side,
 	} from "./index.js";
 	import Cross2 from "svelte-radix/Cross2.svelte";
-	import { cn } from "$lib/utils.js";
+	import { cn } from "#lib/utils.js";
 	import { fly } from "svelte/transition";
 
 	type $$Props = SheetPrimitive.ContentProps & {

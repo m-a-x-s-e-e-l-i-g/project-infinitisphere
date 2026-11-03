@@ -3,10 +3,10 @@
     import { tick } from 'svelte';
     import QR from 'svelte-qr';
     import sha1 from 'crypto-js/sha1';
-    import { ticketId, credits } from '$lib/stores.js';
-    import { Button } from "$lib/components/ui/button";
-    import { GithubCorner } from "$lib/components/ui/github-corner";
-    import { SettingsMenu } from "$lib/components/ui/settings-menu";
+    import { ticketId, credits } from '#lib/stores.js';
+    import { Button } from "#lib/components/ui/button/index.js";
+    import { GithubCorner } from "#lib/components/ui/github-corner/index.js";
+    import { SettingsMenu } from "#lib/components/ui/settings-menu/index.js";
 
     const vendorId = 28;
     let expiration = getNextExpiration();
