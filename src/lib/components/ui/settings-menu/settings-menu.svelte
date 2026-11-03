@@ -1,10 +1,10 @@
 <script lang="ts">
-  import * as Sheet from "$lib/components/ui/sheet";
-  import { Input } from "$lib/components/ui/input";
-  import { Label } from "$lib/components/ui/label";
+  import * as Sheet from "#lib/components/ui/sheet/index.js";
+  import { Input } from "#lib/components/ui/input/index.js";
+  import { Label } from "#lib/components/ui/label/index.js";
   import Icon from 'svelte-awesome';
   import gear from 'svelte-awesome/icons/gear';
-  import { ticketId, credits } from '$lib/stores.js';
+  import { ticketId, credits } from '#lib/stores.js';
 </script>
 
 <Sheet.Root>
